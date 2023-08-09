@@ -1,16 +1,59 @@
 ### Hi there 👋
 
-<!--
-**1z15020626/1z15020626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+``` javascript 
 
-Here are some ideas to get you started:
+toolbar: {
+    mainTools: [
+      'layout',
+      'toggleFusionMip22',
+      'toggleFusionMip3d22',
+      'toggleFusionMpr33',
+      'toggleFusionMip24Compare',
+      'stackScroll',
+      'pan',
+      'zoom',
+      'wwwc',
+      '3dPan',
+      '3dZoom',
+      '3dRotate',
+      '3dRotatex',
+      '3dRoll',
+      '3dWwwc',
+      'colorScheme',
+      '3dScalpel',
+      '3dScalpelCutInside',
+      '3dScalpelCutOutside',
+      '3dScalpelCutClear',
+      '3dMeasure',
+      '3dReset',
+      'rotateMain',
+      'magnify',
+      'resetViewport',
+      'toggleScaleOverlayTool',
+      // 'measure',
+      // 'enhancedArrowAnnotate',
+      // 'toggleMeasure',
+      // 'clearTools',
+      'toggleSuvConfigDialog',
+      'toggleCineControls',
+      'mpr',
+      'aiAnnotation',
+      'cpr',
+      'vtkLevel',
+      'vtkCrosshairs',
+      '3d',
+      'sliceThickMm',
+      // 'synchronizer',
+      'toggleDicomDialog',
+      'toggleSplitImageDialog',
+      'toggleOverlayTags',
+      'pixelSetting',
+      // 'toggleExportDialog',
+      'fullScreen',
+      'multiLanguage',
+      'interpolationVoi',
+      'endVoi'
+    ]
+  },
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
